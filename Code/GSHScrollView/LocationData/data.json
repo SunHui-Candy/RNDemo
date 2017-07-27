@@ -1,0 +1,25 @@
+{
+  "data" : [
+    {
+      "icon" : "img_01",
+      "title" : "开心网分享"
+    },
+    {
+      "icon" : "img_02",
+      "title" : "QQ分享"
+    },
+    {
+      "icon" : "img_03",
+      "title" : "QQ空间分享"
+    },
+    {
+      "icon" : "img_04",
+      "title" : "QQ微博分享"
+    },
+    {
+      "icon" : "img_05",
+      "title" : "人人网分享"
+    }
+
+  ]
+}

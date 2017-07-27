@@ -1,0 +1,3 @@
+rootProject.name = 'FSHLifeCicly'
+
+include ':app'
